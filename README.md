@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/version-2.0-blue?style=flat-square" alt="version"/>
 
-# 📡 TG Reader
+# 📡 TELEGRAM MIRROR
 
 ### کانال‌های تلگرام را بدون فیلتر، مستقیم از GitHub بخوانید
 
@@ -66,9 +66,7 @@ Settings → Actions → General → Workflow permissions
 2. روی **Run workflow** کلیک کنید
 3. نام کانال را **بدون @** وارد کنید
 
-   ```
-   مثال: bbcpersian
-   ```
+
 
 4. تعداد پیام را وارد کنید (پیش‌فرض: ۱۰۰)
 5. **Run workflow** را بزنید
@@ -87,7 +85,7 @@ telegram-reader/
 ├── scripts/
 │   └── fetch_channel.py       ← اسکریپت دریافت پیام‌ها
 ├── channels/
-│   └── bbcpersian_2025-...md  ← فایل‌های ذخیره‌شده کانال‌ها
+│   └── channel_username_2026-...md  ← فایل‌های ذخیره‌شده کانال‌ها
 └── README.md
 ```
 
@@ -112,18 +110,18 @@ telegram-reader/
 
 ## 📄 لایسنس
 
-MIT License — آزاد برای استفاده شخصی و تجاری
+MIT License — آزاد برای استفاده شخصی
 
 ---
 
 <div align="center">
 
-ساخته شده با ❤️ برای دسترسی آزاد به اطلاعات
+ساخته شده با ❤️
 
 ---
 
 اگه این پروژه برات مفید بود، با یه ⭐ حمایت کن — انگیزه ادامه دادنمه!
 
-[![Star on GitHub](https://img.shields.io/github/stars/FALKON-CODE/telegram-reader?style=social)](https://github.com/FALKON-CODE/telegram-reader)
+[![Star on GitHub](https://img.shields.io/github/stars/FALKON-CODE/Telegram-Mirror?style=social)](https://github.com/FALKON-CODE/Telegram-Mirror)
 
 </div>
